@@ -1,8 +1,8 @@
 package jpabook.jpashop.api;
 
-import jpabook.jpashop.Address;
-import jpabook.jpashop.Order;
-import jpabook.jpashop.OrderStatus;
+import jpabook.jpashop.domain.Address;
+import jpabook.jpashop.domain.Order;
+import jpabook.jpashop.domain.OrderStatus;
 import jpabook.jpashop.repository.OrderRepository;
 import jpabook.jpashop.repository.OrderSearch;
 import jpabook.jpashop.repository.order.simplequery.OrderSimpleQueryRepository;

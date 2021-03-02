@@ -1,8 +1,8 @@
 package jpabook.jpashop.controller;
 
 
-import jpabook.jpashop.Member;
-import jpabook.jpashop.Order;
+import jpabook.jpashop.domain.Member;
+import jpabook.jpashop.domain.Order;
 import jpabook.jpashop.item.Item;
 import jpabook.jpashop.item.NotEnoughStockException;
 import jpabook.jpashop.repository.OrderSearch;

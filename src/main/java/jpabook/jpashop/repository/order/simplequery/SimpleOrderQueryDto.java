@@ -1,8 +1,7 @@
 package jpabook.jpashop.repository.order.simplequery;
 
-import jpabook.jpashop.Address;
-import jpabook.jpashop.Order;
-import jpabook.jpashop.OrderStatus;
+import jpabook.jpashop.domain.Address;
+import jpabook.jpashop.domain.OrderStatus;
 import lombok.Data;
 
 import java.time.LocalDateTime;
